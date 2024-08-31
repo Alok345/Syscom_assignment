@@ -1,0 +1,12 @@
+feature list
+
+1. add new icecream
+2. remove icecream
+3. edit icecream
+4. view all icecream
+5. view icecream by name
+6. view icecream by price
+7. view icecream by flavor
+8. view icecream by brand
+9. view icecream by size
+10. view icecream by price range
